@@ -1,1 +1,1 @@
-# Javascript study note
+# Javascript study note.
